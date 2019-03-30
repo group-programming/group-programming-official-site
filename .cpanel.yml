@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/grouppro/public_html/
-    - /bin/cp -r sitel $DEPLOYPATH
+    - /bin/cp -r site $DEPLOYPATH
