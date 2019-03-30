@@ -1,0 +1,22 @@
+site_name: برنامه نویسی گروهی
+
+theme:
+  name: 'material'
+  language: 'fa'
+  direction: 'rtl'
+  palette:
+    primary: 'teal'
+    accent: 'indigo'
+  font: false
+
+extra_css:
+  - 'stylesheets/extra.css'
+
+nav:
+- خانه: 'index.md'
+- تماس با ما: 'contact.md'
+
+- کل مشارکت کنندگان: 'all-persons.md'
+- پروژه ها:
+  - پروژه اول: 'projects/p-1.md'
+  - پروژه دوم: 'projects/p-2.md'
