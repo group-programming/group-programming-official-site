@@ -14,7 +14,7 @@ extra_css:
 
 nav:
 - خانه: 'index.md'
-- تماس با ما: 'contact.md'
+- ارتباط با ما: 'contact.md'
 
 - کل مشارکت کنندگان: 'all-persons.md'
 - پروژه ها:
